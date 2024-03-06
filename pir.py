@@ -1,3 +1,6 @@
+""" This script will prompt the user on Contestant 1's initial score, whether or not to take a second spin, and how many games to play """
+
+
 import random
 
 def spin_wheel():
